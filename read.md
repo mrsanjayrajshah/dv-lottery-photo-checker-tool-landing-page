@@ -6,8 +6,8 @@ This is a professional and eye-catching landing page for a **DV Lottery Photo Ch
 
 ## **Live Websites**
 
-- **DV Lottery Photo Checker:** [https://www.dvlotteryphotochecker.com/](https://www.dvlotteryphotochecker.com/)
-- **DV Lottery Photo Tool:** [https://www.dvlotteryphototool.com/](https://www.dvlotteryphototool.com/)
+- **DV Lottery Photo Checker:** [DV Lottery Photo Checker](https://www.dvlotteryphotochecker.com/)
+- **DV Lottery Photo Tool:** [DV Lottery Photo Tool](https://www.dvlotteryphototool.com/)
 
 ---
 
